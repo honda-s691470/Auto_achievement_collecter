@@ -1,5 +1,0 @@
-0
-"1. Takagi K, Kawamoto M, Higuchi T, Tochimoto A, Harigai M, Kawaguchi Y. Single nucleotide polymorphisms of the HIF1A gene are associated with susceptibility to pulmonary arterial hypertension in systemic sclerosis and contribute to SSc-PAH disease severity Int J Rheum Dis. 2020 May;23(5):674-680. doi: 10.1111/1756-185X.13822. Epub 2020 Mar 6.doi: 10.1111/1756-185X.13822 PMID32144871
-"
-"2. Takagi K, Kawamoto M, Higuchi T, Tochimoto A, Hirose H, Harigai M, Kawaguchi Y. Characteristics of Japanese patients with systemic sclerosis complicated with calcinosis Int J Rheum Dis. 2021 Jun;24(6):803-808. doi: 10.1111/1756-185X.14121. Epub 2021 Apr 28.doi: 10.1111/1756-185X.14121 PMID33909342
-"
