@@ -23,3 +23,6 @@ chormeのバージョン確認方法
 
 Once you have verified the version, go to the [ChromeDriver](https://chromedriver.chromium.org/downloads) site, where you will find the Chrome version and download link under Current Releases.  
 バージョンが確認できたら[ChromeDriver](https://chromedriver.chromium.org/downloads)サイトに移動します。Chromeのバージョンとダウンロードリンクを確認することができます。
+
+The first column of the name_list.csv file is the group name, and the second column is the full names of the members in that group, in order of first name, last name.  
+name_list.csvファイルの1列目はグループ名。2列目はそのグループに含まれるメンバーのフルネームを名前、名字の順で入力します。
